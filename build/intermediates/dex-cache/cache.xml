@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\5e14eca45f72cfba13fc41e56aa6e2a750506e7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe159787dd4c4bc9ed6a9d4f7430e9af1f3516c8">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_256d62549964ff668930d8874bce8aaaf8206e45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\8e2185d628feb384fcd94e8e14dd9576d6f3f1fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acdd01b3fce9062a6c349743cbcd0cf306c11687\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\a0175ed3d51e912570d63ff96173fcae679a4eb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c01990d0a9bbc67f4c2b9610c1170046c2e37b3e">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_be6ac10ef73147f2212f719cd1697841d4360078\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3e78d4cbab7cf8594846063e97daeac26cca83bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\8fa22bd5e87de671886b287afd3224b463ec0488\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93094dbb2af50e23339620bebd7b4b6161410edb">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f38806e2e56fa912f4f7f9537d28f54c293da6b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\871edf796f0d261515e2fa0846771e50765a3bb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90236fba9ac4dfb1f4196e231aab964522143ef6">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8dfbdc62a655f0075ae26cb8940c14b5de95b0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\76e78a0c23b3021d32b65a042ac1197fa54730dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ed7ba48801a0a361727833ade3b6cf096968cc0">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_262023c1a5e16a03deb35ea7be45159061cffbae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\44df9f5574c86aeb112cfc6397d7d4de58ca88a1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2b4d3ecd541814f08200f8171def113095d5f39">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b45b83eca18b802ae6a41a2cdddea0dde6e680d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\b934bf6efe4beb7d6d554bafe09d708d3aad36a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dde643ce80b967f869e9b111255815ba4d391653">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d1abf6873ad9dbb79ed353ed943488ac12d7001\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\122f8b48bffcacf1e56941e79837bc50030ba672\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d72eb1ceff1b0bac4916088eb44bb93f86b1265c">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf1932fc03c516e2618eab7dfa1e3945ef978cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\2f901381c854be2655a0a994ac3ec4e901320c9d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="32aa1b2a2f68f455403d10d41d8ded37c9812f11">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_01a829c6ec7ee9849c97306153f2130e80141b25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\8dbaa3da8587cb43ddc3d49778bde9d5ee249757\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="657abe17c5ba58f5d24803ba303c6005b180897a">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7eec1baaa76c091c9f45b127dfc41acc25570221\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\081863c6dac6be3fdc196ccc65c28ce5957ac99c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c8a4af7cf76d958c76ed7682f39e4b386b69305">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8790c2594d98efc0914aac131478caf0190f5664\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4fe63071b34dca4481435943c109cc89cdac8c9c">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_24a5fc3ae935fe09179b2467513bc1982aa191cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\ef13a7ccce117b549e7653e1bb04aaa2f46fecdd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fdf15d202000492aefe43092b21af5332df0178">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c79f0f2e8b728fd079ce0e463dd0e0c2dce6567\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\81f46313791af820d133163ea36807c3dd3306f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80ecaefc1035fde747999e4c20e18d207363efa2">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e23e1fed1c16d7f2fc465c6b568e0bf72db15c93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\511f6e14b4e23f9a79880fdc8a8a6b2df27fe9c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a75030f7a3f5f96a15acdab44829bed93154d09f">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8434bda576a21add85ebb6b410e58932046f1cbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\cccbdd2af60cff7f53fd934946a8a49b01642c12\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88ae4c6ceaeab7beca5e396e0698c6958e26a2d2">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_223af7c3d51b89388d3c228852f3ed182f251c3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\84d375f3ecbd61616886b5a524621110ca2263ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_399f2d91f22b3924d37d04ca98ceba194fdcd225\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\11921d9da48752c01dbdb87a4f64115c6fbde32c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02e70fe04e0767ccfa16745b3398816d1171f0ad">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed9b6cdb54ce5737b11c4e7ae45c5727545d3e95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\9fd1a6be8eb4f5d06c074a844fecff1595d11381\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a8ad9c3e08d48250c88d58649965a5bbf3c858d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\06f97648ab57d7ea058b651425716f832dd3f3f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2d27edb6fbc12fdf28008cdff920e66f08cf159">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7263a2003c17a26b3eb14e1e6cb8874a5fd29ded\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\ad8d9a7a0886937dfda67aeb2c485e6c2d866791\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9c8affe1f564ec0d063be68469d26e972455217">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a23ab503cd40d34755b70dce843c8b00be5f047e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\fcbf1e9117810a169009f7f5aff24bbc9803310c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="701c58abf53f488bc5bb0162f1305a38a32fb5f1">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_265de9c1753dbab81c9e02e6d5cbf04595688092\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\0716ef75155d9f8f60306ddf510d479e8ad806c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="597d0d34e15e713c486e8f4ccf739f0c7d05bde4">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b05aafe23d0ab0c9a8a74cefb0318fcdd15d9715\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\55a8bf758e4975df75fa1cea6ea6adc6154a1951\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b8d1a53648f7ecfe9e7bf0baf9ca657c5a1ff91">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_138bf700e9f62e4445772c4c43d0c7f3911b4c36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\20ab21398734baa9d986368375e1c16f0cfedc47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cba8868595f6aaff54cf7d1798591108cf5611c">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d71544fed4dda2907ad123c36a2349c6143f2dbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\f290c01a3706e21d71e580d19d88804aa76e7c53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e23941db151e67886844de6586e180bb2b860ad">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_496426b1d06637ff2b83de453fdb2230266c514c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\41c6ceefc667f076b40a7bd2020d6affc2986b7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="610ae6a6872d9718fc05e2c726758206bd367595">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_324433aadc43b51cfe5c70848f85f1a3960311c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\6c9254541e8904d74acfda64398b67866ad43d91\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="acc7a846f0bc56ecccda535fc919fd338b2b3e2c">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1df0252d7cb26e7e02387814e0e07a9dced0039c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\ed8a4303e3bcb32a454652bc06d0a6ab7901da86\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="183e4fb7cf95f4fa54963cfcdaf0f4d7e2397bad">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_686815223f714fbdf6f3e60910e5979d5b0ab3d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\5b7f1f1a3b24efbe7806f3c2a309635875cd0118\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2188ba20a948ec6e7fa671b818c69d876d8bf32d">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_392f1ba9a6daa7899c4cfbaca85b24490e789ea0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\dc6459244e173b0942195c037ed51f6bb243e0ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d66b8668122393a15c90471c5c974c25439d193a">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe48831d705512da6795137ca42eaa8bc5718d88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\c4376e4995dcef4f13c150c16ab764df36358623\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c76804333008c855433cad5cfd1256e86045e97b">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18acf8525f3f575583b584bdee751e040d39adad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\b5cc8bfee1c3d376f31e16c850741f1e5d18776d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b96c63b7872eef7ae965c88a5d3b31652460d0f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\41eb87ac4bcce3a54e2d3efc7cb49726f7906ec6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="287051610dd01cc6eeaed7fc689712c31ad1ff70">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f4f0d7213123b18da55718c5b6183e11dad70a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AlexDev\.android\build-cache\e71c1e317228bb72d4f1b2ea56b97fb8833949e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29d9916bd9ad8406a53edbafbbce5e18943aa882">
+        <dex dex="E:\Users\AlexDev\Android Project\InshaAllah\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f55e7bb6fd77cfc37d472b8e6e27a65a5144962c\classes.dex" />
+    </item>
+
+</items>
