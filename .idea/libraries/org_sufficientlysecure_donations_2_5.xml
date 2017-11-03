@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.sufficientlysecure:donations-2.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/donations-2.5.aar/baf750ad28cd7d9f75d2fb9fd177c5d9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/donations-2.5.aar/baf750ad28cd7d9f75d2fb9fd177c5d9/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sufficientlysecure/donations/2.5/b25ddd03fb128e20e7cb563242b1959985eb62a/donations-2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
